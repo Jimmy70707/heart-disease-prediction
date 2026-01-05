@@ -138,3 +138,11 @@ This application is intended for educational and demonstration purposes only and
 Mohamed Gamal
 
 Machine Learning & AI Engineer
+
+## 🔗 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammed-gamal-b0a347244"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Jimmy70707"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="36" height="36"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:muhammed.gammal00@gmail.com"><img src="https://img.icons8.com/fluency/48/email-open.png" width="36" height="36"/></a>
+</p>
